@@ -1,4 +1,4 @@
-name:CICD to multi environments
+name: CICD to multi environments
 
 on:
   push:
