@@ -9,7 +9,7 @@ jobs:
   build_test:
     runs-on: ubuntu-latest
     steps:
-      - run: echo building and testing!
+      - run: echo building and testing!!
 
   deploy_staging:
     needs: [build_test]
